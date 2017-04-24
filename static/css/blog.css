@@ -1,0 +1,14 @@
+h1 {
+        color: #FFFFFF;
+        font-family: 'Lobster';
+}
+
+.content {
+        margin-left: 60px;
+}
+
+.page-header {
+        background-color: #7B68EE;
+        margin-top: 0;
+        padding: 20px 20px 20px 40px;
+ }
